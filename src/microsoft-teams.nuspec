@@ -11,10 +11,11 @@
     <iconUrl>http://cdn.rawgit.com/flcdrg/chocolatey-microsoft-teams/master/icons/teams-logo.png</iconUrl>
     <copyright>2017 Microsoft Corporation</copyright>
     <licenseUrl>https://www.microsoft.com/online/legal/v2/?docid=13&amp;langid=en-us</licenseUrl>
+	<packageSourceUrl>https://github.com/flcdrg/chocolatey-microsoft-teams</packageSourceUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://support.office.com/en-us/teams</docsUrl>
     <mailingListUrl>https://microsoftteams.uservoice.com</mailingListUrl>
-    <tags>microsoft-teams teams slack</tags>
+    <tags>microsoft-teams teams office 365 chat collaboration slack</tags>
     <summary>Microsoft Teams helps your team work better together. It’s one app that brings your team’s conversations, meetings, files and notes together into a single place for open and seamless collaboration.</summary>
     <description>Microsoft Teams is a messaging app for teams where all conversations, meetings, files, and notes can be accessed by everyone, all in one place. It's a place for collaboration and work to happen in the open.
 
