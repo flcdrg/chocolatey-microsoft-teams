@@ -7,7 +7,7 @@
     <owners>flcdrg</owners>
     <title>Microsoft Teams Desktop App</title>
     <authors>Microsoft Corporation</authors>
-    <projectUrl>https://teams.microsoft.com</projectUrl>
+    <projectUrl>https://products.office.com/en-us/microsoft-teams/group-chat-software</projectUrl>
     <iconUrl>http://cdn.rawgit.com/flcdrg/chocolatey-microsoft-teams/master/icons/teams-logo.png</iconUrl>
     <copyright>2017 Microsoft Corporation</copyright>
     <licenseUrl>https://www.microsoft.com/online/legal/v2/?docid=13&amp;langid=en-us</licenseUrl>
